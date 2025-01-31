@@ -10,4 +10,5 @@ Solve the daily leetcode problem and add solution code and explanation.
 - Day 1: Easy problem, similar to a problem I have solved before.
 - Day 2: Easy problem if you know about union-find. (revise this concept)
 - Day 3: Graph theory problem, had to watch neetcode [video](https://www.youtube.com/watch?v=Gn0ADjje8Rg) to understand the solution.
+- Day 4: Easy problem, solved using bfs to find all connected components.
 - 
