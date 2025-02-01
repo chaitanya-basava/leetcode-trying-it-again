@@ -16,7 +16,7 @@ class Solution {
 
     private int bfs(int[][] grid, int r, int c, int rows, int cols, int component) {
         Queue<Pair<Integer, Integer>> q = new LinkedList<>();
-        q.add(new Pair(r, c));
+        q.add(new Pair<>(r, c));
         grid[r][c] = component;
 
         int area = 0;
@@ -27,7 +27,7 @@ class Solution {
             area++;
             for(int[] d: dirs) {
                 if(valid(r+d[0], c+d[1], rows, cols) && grid[r+d[0]][c+d[1]] == 1) {
-                    q.add(new Pair(r+d[0], c+d[1]));
+                    q.add(new Pair<>(r+d[0], c+d[1]));
                     grid[r+d[0]][c+d[1]] = component;
                 }
             }
@@ -62,11 +62,9 @@ class Solution {
                 int new_area = 1;
                 for(int[] d: dirs) {
                     int r = i + d[0], c = j + d[1];
-                    if(valid(r, c, rows, cols) && grid[r][c] != 0) {
-                        if(!seen.contains(grid[r][c])) {
-                            new_area += areas.get(grid[r][c]);
-                            seen.add(grid[r][c]);
-                        }
+                    if(valid(r, c, rows, cols) && grid[r][c] != 0 && !seen.contains(grid[r][c])) {
+                        new_area += areas.get(grid[r][c]);
+                        seen.add(grid[r][c]);
                     }
                 }
                 ans = Math.max(ans, new_area);

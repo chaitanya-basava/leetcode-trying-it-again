@@ -1,4 +1,4 @@
-# Day 4
+# Day 4 (Jan 31, 2025)
 
 [question](https://leetcode.com/problems/making-a-large-island/)
 

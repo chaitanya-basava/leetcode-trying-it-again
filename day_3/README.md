@@ -1,4 +1,4 @@
-# Day 3
+# Day 3 (Jan 30, 2025)
 
 [question](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/)
 

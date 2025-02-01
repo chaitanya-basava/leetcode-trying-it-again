@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 (Jan 28, 2025)
 
 [question](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/)
 

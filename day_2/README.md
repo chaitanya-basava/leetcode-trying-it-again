@@ -1,4 +1,4 @@
-# Day 2
+# Day 2 (Jan 29, 2025)
 
 [question](https://leetcode.com/problems/redundant-connection/)
 
