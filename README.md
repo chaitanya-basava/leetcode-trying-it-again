@@ -12,5 +12,5 @@ Solve the daily leetcode problem and add solution code and explanation.
 - Day 3: Graph theory problem, had to watch neetcode [video](https://www.youtube.com/watch?v=Gn0ADjje8Rg) to understand the solution.
 - Day 4: Easy problem, solved using bfs to find all connected components.
 - Day 5: very straightforward problem, no explanation/code for this.
-- Day 6: Easy problem, basic array question. Check [video](https://www.youtube.com/watch?v=Vzs_vlCIFEw) if you need explanation.
-- 
+- Day 6: Easy problem, basic array question. Check [video](https://www.youtube.com/watch?v=Vzs_vlCIFEw) for another solution idea.
+- Day 7: Easy problem.
