@@ -21,3 +21,4 @@ Solve the daily leetcode problem and add solution code and explanation.
 Week 1 done, updated goal to also solve one question from TUF/Neetcode along with a Leetcode daily problem.
 - Day 8: Easy problem
 - Day 9: Done
+- Day 10: Done
