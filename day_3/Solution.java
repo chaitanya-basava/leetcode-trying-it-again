@@ -73,9 +73,11 @@ class Solution {
             if(visited.contains(i)) continue;
 
             visited.add(i);
+            // get nodes in a connected component
             Res res = bfs_longest_path(i, adj, visited);
             if(res.group == -1) return -1;
 
+            // do bfs from each node in the connected component
             int max_count = 0;
             for(int src: res.dist.keySet()) {
                 Res res1 = bfs_longest_path(src, adj, visited);
