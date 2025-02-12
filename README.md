@@ -27,3 +27,4 @@ Week 1 done, updated goal to also solve one question from TUF/Neetcode along wit
 - Day 13: Done, done 2 extra questions from Neetcode for missing yesterday.
 - Day 14: Done
 - Day 15: Done, TODO: learn KMP string matching algorithm.
+- Day 16: Done
