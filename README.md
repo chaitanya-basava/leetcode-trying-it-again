@@ -30,3 +30,5 @@ Week 1 done, updated goal to also solve one question from TUF/Neetcode along wit
 - Day 16: Done
 - Day 17: Done
 - Day 18: Did leetcode daily question, partial done :(
+- Day 19: Done
+- Day 20: 
