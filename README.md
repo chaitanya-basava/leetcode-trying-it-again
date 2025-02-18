@@ -33,3 +33,5 @@ Week 1 done, updated goal to also solve one question from TUF/Neetcode along wit
 - Day 19: Done
 - Day 20: Done
 - Day 21: Done
+- Day 22: Done
+- Day 23: 
