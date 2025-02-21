@@ -35,4 +35,6 @@ Week 1 done, updated goal to also solve one question from TUF/Neetcode along wit
 - Day 21: Done
 - Day 22: Done
 - Day 23: Done
-- Day 24: 
+- Day 24: Done
+- Day 25: Done, almost missed this one.
+- Day 26: 
