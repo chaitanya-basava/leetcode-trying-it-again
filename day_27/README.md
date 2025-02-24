@@ -2,7 +2,7 @@
 
 - [Neetcode question](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 - [Neetcode question](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-- [Leetcode question]
+- [Leetcode question](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/?envType=daily-question&envId=2025-02-23)
 
 ## Neetcode solution
 
