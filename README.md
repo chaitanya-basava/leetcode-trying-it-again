@@ -40,3 +40,5 @@ Week 1 done, updated goal to also solve one question from TUF/Neetcode along wit
 - Day 26: Done
 - Day 27: Done
 - Day 28: only daily ques done
+- Day 29: Done, had to watch [video](https://www.youtube.com/watch?v=AIlI-24oC6Q) to solve the daily problem.
+- Day 30: 
