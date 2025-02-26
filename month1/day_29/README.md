@@ -1,4 +1,4 @@
-# Day 28
+# Day 29
 
 - [Neetcode question](https://leetcode.com/problems/daily-temperatures/)
 - [Neetcode question](https://leetcode.com/problems/max-area-of-island/)
