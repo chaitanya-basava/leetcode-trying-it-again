@@ -13,6 +13,7 @@ class Solution3 {
                 int diff = arr[curr] - arr[prev];
                 int prevIdx = vals.getOrDefault(diff, -1);
 
+                // expected sequence - ...., diff, arr[prev], arr[curr]
                 dp[prev][curr] = (diff < arr[prev] && prevIdx != -1) ? dp[prevIdx][prev] + 1 : 2;
 
                 ans = Math.max(ans, dp[prev][curr]);
